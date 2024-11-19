@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              16 hrs 7 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-Rust              8 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-HTML              7 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Lua               5 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-JavaScript        3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Dart              16 hrs 7 mins   ███████▒░░░░░░░░░░░░░░░░░   29.01 %
+Rust              9 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+HTML              7 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Lua               5 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+JavaScript        3 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
