@@ -16,14 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-
-```txt
-Dart              16 hrs 7 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
-Rust              10 hrs 46 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
-HTML              7 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Lua               5 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-JavaScript        3 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-```
-
-<!--END_SECTION:waka-->
