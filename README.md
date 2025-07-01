@@ -28,4 +28,4 @@ Blade Template    17 hrs 15 mins  ██░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@Rie/04e2e23e-da3e-4a29-905f-43647427b2fe.svg"></embed></figure>
+[<figure><embed src="https://wakatime.com/share/@Rie/04e2e23e-da3e-4a29-905f-43647427b2fe.svg"></embed></figure>](https://wakatime.com/share/@Rie/04e2e23e-da3e-4a29-905f-43647427b2fe.svg)
