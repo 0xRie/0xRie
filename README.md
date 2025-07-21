@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                34 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-PHP                 27 hrs 55 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Python              25 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-HTML                22 hrs 2 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Blade Template      17 hrs 15 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Dart                34 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+PHP                 27 hrs 55 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Python              25 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+HTML                22 hrs 2 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Rust                18 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 ```
 
 <!--END_SECTION:waka-->
