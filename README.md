@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 TypeScript                 68 hrs 20 mins  █████░░░░░░░░░░░░░░░░░░░░   20.06 %
 Dart                       34 hrs 43 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
 PHP                        27 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Python                     25 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Python                     25 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 HTML                       22 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
