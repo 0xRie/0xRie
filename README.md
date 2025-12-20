@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 238 hrs 54 mins ██████████░░░░░░░░░░░░░░░   40.40 %
+TypeScript                 238 hrs 54 mins ██████████░░░░░░░░░░░░░░░   40.37 %
 Dart                       34 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Rust                       34 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Rust                       34 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 PHP                        27 hrs 55 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 Python                     25 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
