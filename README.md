@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 TypeScript                 252 hrs 45 mins       █████████▓░░░░░░░░░░░░░░░   38.82 %
 Rust                       52 hrs 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
 Dart                       34 hrs 46 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Markdown                   34 hrs 1 min          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Markdown                   34 hrs 4 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 PHP                        28 hrs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
