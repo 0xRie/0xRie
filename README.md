@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ```txt
 TypeScript                 253 hrs 44 mins       █████████▓░░░░░░░░░░░░░░░   38.26 %
-Rust                       56 hrs 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Rust                       56 hrs 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
 Dart                       34 hrs 46 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 Markdown                   34 hrs 32 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 PHP                        28 hrs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
